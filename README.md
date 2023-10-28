@@ -10,27 +10,19 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
-
 ## Reyhan Vincent Prabowo's Cloud Journey
 
-[✍️ Introduce yourself]
+Hello, introduce my name is Reyhan Vincent Prabowo. i am very interested in IT, especially in Cloud Computing and Cyber Security. in this repository i will share my journey in the field of Cloud Computing.
 
-[✍️ Tell us why you started this challenge]
-
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/reyhan-vincent-prabowo-291883263)
+- [my Wordpress](https://srvone.000webhostapp.com)
+- [my LinkedIn](https://www.linkedin.com/in/reyhan-vincent-prabowo-291883263)
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [Modul 1 - Cloud Concepts Overview](Journey/001/Readme.md)
+- [ ] ☁️ 1 > [Modul 1](Journey/001/Readme.md)
 - [ ] ☁️ 2 > [Modul 2 & 3](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
+- [ ] ☁️ 3 > [Modul 4](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Modul 5](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
