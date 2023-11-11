@@ -1,52 +1,35 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+# Modul 2 - Cloud Economics and Billing
 
-# New post title here
+## Topics
+- Fundamentals of Pricing
+- Total Cost of Ownership
+- AWS Organizations
+- Technical Support
 
-## Introduction
+## Section 1: Fundamentals of Pricing
+![Model Harga AWS](https://github.com/ryhnvp/100DaysOfAwan/assets/124799992/9fa6e667-4863-4019-b25c-5c635b12fa8e)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+AWS menerapkan pendekatan "bayar sesuai pemakaian" untuk sebagian besar layanan cloud-nya, memberi Anda fleksibilitas untuk memilih layanan yang Anda butuhkan untuk setiap proyek dan membayar sesuai yang Anda gunakan. Hal ini membuat AWS menjadi pilihan yang menarik bagi perusahaan dan individu yang ingin menghemat biaya cloud.
+Ada 3 pendorong dasar biaya dengan AWS, yaitu **komputasi**, **penyimpanan**, dan **transfer data keluar**. Karakteristik ini bervariasi, tergantung pada produk AWS dan model harga yang dipilih.
+</br>Ada beberapa layanan AWS gratis, termasuk:
+- AmazonVPC
+- Elastic Beanstalk
+- AWS CloudFormation
+- IAM
+- Layanan penskalaan otomatis
+- AWS OpsWorks
+- Tagihan Terkonsolidasi
 
-## Prerequisite
+Meskipun layanan diatas gratis, sumber daya yang disediakan mungkin tidak gratis. AWS juga tidak mengenakan biaya untuk data masuk atau transfer data antarlayanan dalam Wilayah AWS yang sama. Namun, biaya transfer data keluar bertingkat.
+## Section 2: Total Cost of Ownership
+## Section 3: AWS Organizations
+## Section 4: Technical Support
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
 
-## Use Case
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
 
-## Cloud Research
 
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
-## Try yourself
 
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
-
-## Social Proof
-
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+# Modul 3 - AWS Global Infrastructure Overview
